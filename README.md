@@ -37,11 +37,11 @@ pip install -r requirements.txt
 ## Citation
 If you find this code useful, please cite our work with the following bibtex:
 ```
-@article{xuan2022cicai,
+@article{xuan2023mhhmr,
   author = {Haibiao Xuan and Jinsong Zhang and Yu-Kun Lai and Kun Li},
   title = {MH-HMR: Human Mesh Recovery from Monocular Images via Multi-Hypothesis Learning},
   booktitle = {CAAI TRIT},
-  year={2022}
+  year={2023}
 }
 ```
 
