@@ -1,4 +1,4 @@
-# MHPro: Multi-Hypothesis Probabilistic Modeling for Human Mesh Recovery
+# MH-HMR: Human Mesh Recovery from Monocular Images via Multi-Hypothesis Learning
 ### [Project Page](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/)  | [Paper](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/imgs/CICAI_MHPro.pdf) | [Video](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/)
 
 Coming Soon
@@ -38,9 +38,9 @@ pip install -r requirements.txt
 If you find this code useful, please cite our work with the following bibtex:
 ```
 @article{xuan2022cicai,
-  author = {Haibiao Xuan and Jinsong Zhang and Kun Li},
-  title = {MHPro: Multi-Hypothesis Probabilistic Modeling for Human Mesh Recovery},
-  booktitle = {Proceedings of the the CAAI International Conference on Artificial Intelligence (CICAI)},
+  author = {Haibiao Xuan and Jinsong Zhang and Yu-Kun Lai and Kun Li},
+  title = {MH-HMR: Human Mesh Recovery from Monocular Images via Multi-Hypothesis Learning},
+  booktitle = {CAAI TRIT},
   year={2022}
 }
 ```
