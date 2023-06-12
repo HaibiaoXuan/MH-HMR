@@ -1,5 +1,5 @@
 # MH-HMR: Human Mesh Recovery from Monocular Images via Multi-Hypothesis Learning
-### [Project Page](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/)  | [Paper](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/imgs/CICAI_MHPro.pdf) | [Video](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/)
+### [Project Page](https://haibiaoxuan.github.io/MH-HMR/)  | [Paper]() | [Video](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/)
 
 Coming Soon
 
